@@ -1,2 +1,2 @@
 xd = 'xddd'
-prin(xd)
+print(xd)
