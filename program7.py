@@ -1,2 +1,2 @@
-xd = 'xddd'
+xd = 'zmiany'
 print(xd)
