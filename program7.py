@@ -1,2 +1,2 @@
-xd = 'zmiany'
-print(xd)
+xd2 = 'zmiany'
+print(xd2)
